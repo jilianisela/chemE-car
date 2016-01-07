@@ -1,0 +1,221 @@
+<!DOCTYPE HTML>
+<!--
+	Ex Machina by TEMPLATED
+    templated.co @templatedco
+    Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
+-->
+<html>
+	<head>
+		<title>UC Berkeley : ChemE Car</title>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<meta name="description" content="" />
+		<meta name="keywords" content="" />
+		<link href='http://fonts.googleapis.com/css?family=Roboto+Condensed:700italic,400,300,700' rel='stylesheet' type='text/css'>
+		<!--[if lte IE 8]><script src="js/html5shiv.js"></script><![endif]-->
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+		<script src="js/skel.min.js"></script>
+		<script src="js/skel-panels.min.js"></script>
+		<script src="js/init.js"></script>
+		<noscript>
+			<link rel="stylesheet" href="css/skel-noscript.css" />
+			<link rel="stylesheet" href="css/style.css" />
+			<link rel="stylesheet" href="css/style-desktop.css" />
+		</noscript>
+		<!--[if lte IE 8]><link rel="stylesheet" href="css/ie/v8.css" /><![endif]-->
+		<!--[if lte IE 9]><link rel="stylesheet" href="css/ie/v9.css" /><![endif]-->
+	</head>
+	<body class="homepage">
+
+	<!-- Facebook layout -->
+	<script>
+	  window.fbAsyncInit = function() {
+	    FB.init({
+	      appId      : '232654623732307',
+	      xfbml      : true,
+	      version    : 'v2.5'
+	    });
+	  };
+
+	  (function(d, s, id){
+	     var js, fjs = d.getElementsByTagName(s)[0];
+	     if (d.getElementById(id)) {return;}
+	     js = d.createElement(s); js.id = id;
+	     js.src = "//connect.facebook.net/en_US/sdk.js";
+	     fjs.parentNode.insertBefore(js, fjs);
+	   }(document, 'script', 'facebook-jssdk'));
+	</script>
+
+	<div id="fb-root"></div>
+		<script>(function(d, s, id) {
+  			var js, fjs = d.getElementsByTagName(s)[0];
+  			if (d.getElementById(id)) return;
+  			js = d.createElement(s); js.id = id;
+  			js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5";
+  			fjs.parentNode.insertBefore(js, fjs);
+			}(document, 'script', 'facebook-jssdk'));
+		</script>
+
+	<!-- Header -->
+		<div id="header">
+			<div class="container">
+					
+				<!-- Logo -->
+					<div id="logo">
+						<h1><a href="#">UC BERKELEY | ChemE Car</a></h1>
+					</div>
+				
+				<!-- Nav -->
+					<nav id="nav">
+						<ul>
+							<li class="active"><a href="index.html">Home</a></li>
+							<li><a href="people/index.html">People</a></li>
+							<li><a href="projects/index.html">Projects (left)</a></li>
+							<li><a href="about/index.html">About (right)</a></li>
+						</ul>
+					</nav>
+
+			</div>
+		</div>
+	<!-- Header -->
+		
+	<!-- Banner -->
+		<div id="banner">
+			<div class="container">
+			</div>
+		</div>
+	<!-- /Banner -->
+
+	<!-- Main -->
+		<div id="page">
+
+			<!-- Extra -->
+			<div id="marketing" class="container">
+				<div class="row">
+					<div class="3u">
+						<section>
+							<header>
+								<h2>WHO | the team</h2>
+							</header>
+							<!-- <p class="subtitle">Meet the team members!</p> -->
+							<p><a href="#"><img src="images/team.jpg" height="150" alt=""></a></p>
+							<a href="#" class="button">More</a>
+						</section>
+					</div>
+					<div class="3u">
+						<section>
+							<header>
+								<h2>WHAT | projects</h2>
+							</header>
+							<!-- <p class="subtitle">How the car runs: power, control, electrical, and mechanical</p> -->
+							<p><a href="#"><img src="images/pics14.jpg" alt=""></a></p>
+							<a href="#" class="button">More</a>
+						</section>
+					</div>
+					<div class="3u">
+						<section>
+							<header>
+								<h2>WHERE | contact us</h2>
+							</header>
+							<!-- <p class="subtitle">Find us on Facebook, email, and on campus!</p> -->
+							<p><a href="#"><img src="images/pics15.jpg" alt=""></a></p>
+							<a href="#" class="button">More</a>
+						</section>
+					</div>
+					<div class="3u">
+						<section>
+							<header>
+								<h2>WHEN | dates&amp;times</h2>
+							</header>
+							<!-- <p class="subtitle">Worksession times and important dates</p> -->
+							<p><a href="#"><img src="images/time.jpg" height="150" alt=""></a></p>
+							<a href="#" class="button">More</a>
+						</section>
+					</div>
+				</div>
+			</div>
+			<!-- /Extra -->
+				
+			<!-- Main -->
+			<div id="main" class="container">
+				<div class="row">
+					<div class="6u">
+						<section>
+							<header>
+								<h2>About Our Team</h2>
+								<span class="byline">Chemical Engineering Car</span>
+							</header>
+							<p>The Chemical Engineering Car team builds a shoebox-sized car powered and controlled by chemical reactions for the annual AIChE-sponsored Chemical Engineering Car competition. Every year, we build two cars to compete at the Pacific Regional against other schools from California, in hopes of qualifying for the National competition.</p>
+							<p><img src="images/wrc.jpg" width="500" alt=""></p>
+							<a href="#" class="button">More Details</a>
+						</section>
+					</div>
+					<div class="3u">
+						<section class="sidebar">
+							<header>
+								<h2>Random Pics Here</h2>
+							</header>
+							<ul class="style2">
+								<li>
+									<a href="#"><img src="images/pics07.jpg" alt=""></a>
+									<p>Donec leo, vivamus fermentum augue praesent a lacus at urna rutrum.</p>
+								</li>
+								<li>
+									<a href="#"><img src="images/pics08.jpg" alt=""></a>
+									<p>Donec leo, vivamus fermentum augue praesent a lacus at urna rutrum.</p>
+								</li>
+								<li>
+									<a href="#"><img src="images/pics09.jpg" alt=""></a>
+									<p>Donec leo, vivamus fermentum augue praesent a lacus at urna rutrum.</p>
+								</li>
+								<li>
+									<a href="#"><img src="images/pics10.jpg" alt=""></a>
+									<p>Donec leo, vivamus fermentum augue praesent a lacus at urna rutrum.</p>
+								</li>
+							</ul>						
+						</section>
+					</div>
+					<div class="3u">
+						<section class="sidebar">
+							<header>
+								<h2>Like Us on Facebook</h2>
+							</header>
+							<!-- <ul class="style1">
+								<li><a href="#">Maecenas luctus lectus at sapien</a></li>
+								<li><a href="#">Etiam rhoncus volutpat erat</a></li>
+								<li><a href="#">Donec dictum metus in sapien</a></li>
+								<li><a href="#">Nulla luctus eleifend purus</a></li>
+								<li><a href="#">Maecenas luctus lectus at sapien</a></li>
+							</ul>
+						</section>
+						<section class="sidebar">
+							<header>
+								<h2>Nulla luctus eleifend</h2>
+							</header>
+							<ul class="style1">
+								<li><a href="#">Maecenas luctus lectus at sapien</a></li>
+								<li><a href="#">Donec dictum metus in sapien</a></li>
+								<li><a href="#">Integer gravida nibh quis urna</a></li>
+								<li><a href="#">Etiam posuere augue sit amet nisl</a></li>
+								<li><a href="#">Mauris vulputate dolor sit amet nibh</a></li>
+							</ul> -->
+							<div class="fb-page" data-href="https://www.facebook.com/CalChemECar" data-tabs="timeline" data-width="200" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/CalChemECar"><a href="https://www.facebook.com/CalChemECar">UC Berkeley Chem-E Car</a></blockquote></div></div>
+						</section>
+					</div>
+				</div>
+			</div>
+			<!-- Main -->
+
+		</div>
+	<!-- /Main -->
+
+	<!-- removed "featured" and "footer" sections here -->
+
+	<!-- Copyright -->
+		<div id="copyright" class="container">
+			<p>Contact: berkeley.chemecar@gmail.com</p>
+			<p>Design: <a href="http://templated.co">TEMPLATED</a></p>
+		</div>
+
+
+	</body>
+</html>
